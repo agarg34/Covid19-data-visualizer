@@ -8,11 +8,11 @@ Project name: COVID-19 Data Visualizer
 
 ## Team Members
 
-1. Ankur Garg, LEC 001, agarg34@wisc.edu, X-Team 113
-2. Eric Ertl, LEC 001, eertl2@wisc.edu,  X-Team 163
-3. Justin Chan, LEC 001, jachan@wisc.edu,  X-Team 138
-4. Sudeep Reddy, LEC 001, sreddy9@wisc.edu,  X-Team 101
-5. Samyu Iyer, LEC 001, siyer8@wisc.edu,  X-Team 126
+1. Ankur Garg, agarg34@wisc.edu
+2. Eric Ertl, eertl2@wisc.edu
+3. Justin Chan,jachan@wisc.edu
+4. Sudeep Reddy, sreddy9@wisc.edu
+5. Samyu Iyer, siyer8@wisc.edu
 
 ## Project Description:
 
